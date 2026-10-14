@@ -9,7 +9,7 @@ Character guides, rosters and worldbuilding for my stories on [Saucepan](https:/
 
 | Project | Type | What's inside | Link |
 |---|:---:|---|:---:|
-| **The Northvale Ravens** | Lorebook | Northvale University's men's varsity hockey team: the starting six, line combinations on the rink, relationships, team titles, playing archetypes and the full roster. | [Open](https://demimonde-cafe.github.io/saucepan/ravens/) |
+| **The Northvale Ravens** | Lorebook | Northvale University's men's varsity hockey team: the starting six, line combinations on the rink, relationships, team titles, playing archetypes and the full roster. | [Open](https://demimonde-cafe.github.io/saucepan/northvale-ravens/) |
 
 More worlds and characters will be added over time.
 
